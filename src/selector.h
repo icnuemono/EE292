@@ -9,7 +9,7 @@ uploaded to the UNO for testing.
 #define _SELECTOR
 
 //define assignment number your working on, who are the team members
-#define ASSIGNMENT 4
+#define ASSIGNMENT 1
 #define AUTHORS "Team 17: Trevor Rose and Jake Hill"
 
 

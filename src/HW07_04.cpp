@@ -32,7 +32,7 @@
     start_message();
 
     //use randomn analogue noise on unused pin to generate randomness
-    randomSeed(analogRead(1));
+    randomSeed(analogRead(2));
   }
   void loop() {
 
