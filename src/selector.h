@@ -1,6 +1,6 @@
 /* This was made so that we could create all four programs in one single project
 folder.  You select what program (hoemwork assignment) you want compiled below.
-We use PlatformIO as my IDE, this allows us to choose one to be compiled and
+We use PlatformIO as our IDE, this allows us to choose one to be compiled and
 uploaded to the UNO for testing.
 */
 
