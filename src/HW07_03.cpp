@@ -72,7 +72,7 @@
 
     if (pressed == 4) {
       digitalWrite(12,LOW);
-      Serial.println("The Red LED is now OFF")
+      Serial.println("The Red LED is now OFF");
 
       waiting_message();
     }
@@ -86,7 +86,7 @@
 
     if (pressed == 6){
       digitalWrite(11,LOW);
-      Serial.println("The Green LED is now OFF")
+      Serial.println("The Green LED is now OFF");
 
       waiting_message();
     }
@@ -104,3 +104,4 @@
 
 
   }
+#endif
