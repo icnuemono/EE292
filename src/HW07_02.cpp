@@ -8,6 +8,7 @@
 #include <arduino.h>
 #include "selector.h"
 
+//if assignment variable from selector.h is equal to 2, compile this program
 #if ASSIGNMENT == 2
 
 void waiting_message();

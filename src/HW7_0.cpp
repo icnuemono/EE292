@@ -8,9 +8,11 @@
 #include <Arduino.h>
 #include "selector.h"
 
+//if assignment variable is equal to 0, complile this code  
 #if ASSIGNMENT == 0
 
 void setup() {
+  //call setupSerial variable, defined in selector.cpp
   setupSerial();
 
   //print sting Hello World;

@@ -15,7 +15,7 @@ int print_fib(int limit);
 void setup() {
   setupSerial();
 
-  int limit = 7;
+  int limit = 100;
 
   Serial.print("The first ");
   Serial.print(limit);
