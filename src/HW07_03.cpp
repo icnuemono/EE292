@@ -6,7 +6,7 @@
   */
 
 
-  #include <arduino.h> //include arduino.h
+  #include <arduino.h> //include arduino.h (needed for platformIO)
   #include "selector.h" //include selctor.h (for project combile selector)
 
   //if assigment variable in selctor.h is equal to 3, compile this program

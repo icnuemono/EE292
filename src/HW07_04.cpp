@@ -90,7 +90,7 @@
 
   }
 
-
+  //function to led user know that the program has initialized
   void start_message(){
 
     Serial.println("Randomn LED Generator Operational");
